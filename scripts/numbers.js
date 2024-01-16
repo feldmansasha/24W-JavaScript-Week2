@@ -78,3 +78,7 @@
     console.log(num7b===num7c);
 
     console.log(num7a!==num7b);
+
+    console.log(num7a>3);
+    console.log(num7a<3);
+    console.log(num7a<=5);
