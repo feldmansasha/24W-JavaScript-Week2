@@ -10,6 +10,9 @@ output.textContent = 10;
     output.textContent=string2;
 
     /* STEP 3: Concatenation */
+    output.textContent=string1+" "+string2+20;
+    output.textContent=20+20; // output 40
+    output.textContent=20+"20"; // output 20 20
 
     /* STEP 4: Numbers and Strings */
 
