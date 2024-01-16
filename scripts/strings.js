@@ -17,7 +17,10 @@ output.textContent = 10;
     /* STEP 4: Numbers and Strings */
 
     // numbers can be converted to strings
+    output.textContent="ABC"+30; //output ABC30
 
     // strings can be converted to numbers, too
-
+    var num1=40;
+    var num2=50;
+    output.textContent=num1.toString()+String(num2);
     // and back again, if we want
